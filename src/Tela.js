@@ -5,7 +5,7 @@ export default function Tela()
             <div>
                 <div className="input-group mb-3">
                     
-                    <input type="text" className="form-control" placeholder="Digite o nome" aria-label="Example text with button addon" aria-describedby="button-addon1"/>
+                    <input type="text" className="form-control" placeholder="Digite o nome" />
                     <button className="btn btn-outline-secondary" type="button" >Pesquisar</button>
                 </div>
             </div>
